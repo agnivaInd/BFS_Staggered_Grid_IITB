@@ -5,3 +5,5 @@ Finite Volume Method (FVM) code with a staggered grid.
 First Order Upwind (FOU) scheme is used for advection. 
 
 Results present in the "ME_415_Final.pdf" PDF file.
+
+Group project done in a team of 4.
